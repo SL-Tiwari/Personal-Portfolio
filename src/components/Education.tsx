@@ -3,9 +3,9 @@ import { motion } from "framer-motion";
 const Education = () => {
   const education = [
     {
-      level: "Schooling",
+      level: "Secondary Education",
       institution: "CMR Model High School",
-      year: "2001 – 2014",
+      year: "2004 – 2014",
       board: "CBSE",
       result: "85%",
     },
