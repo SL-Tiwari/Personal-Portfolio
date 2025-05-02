@@ -30,10 +30,10 @@ const projects = [
   },
   {
     title: "Personal Portfolio",
-    description: "A real-time weather dashboard that displays weather information using multiple APIs and interactive visualizations.",
+    description: "A fast, accessible, and responsive personal portfolio built using Vite + TypeScript (TSX). Follows accessibility best practices to ensure an inclusive user experience. Integrated EmailJS for seamless contact form functionality without a backend.",
     technologies: ["React ", "Typescript", "EmailJs", "Tailwind CSS", "Framer Motion", "Shadcn UI"],
-    github: "https://github.com/yourusername/weather-dashboard",
-    live: "https://weather-dashboard-demo.com",
+    github: "https://github.com/SL-Tiwari/Personal-Portfolio",
+    live: "https://sahiltiw.vercel.app/",
     image: "/Images/Personal Portfolio.png",
   },
   {
@@ -41,7 +41,7 @@ const projects = [
     description: "Built a full-stack Airline Management System using Spring Boot and Angular 12. Admins manage flights; users can book, cancel, and edit reservations. Follows SOLID and MVC principles.",
     technologies: ["Angular 12","Java", "Spring Boot", "Typescript", "Babel", "JQuery", "Bootstrap", "MySQL"],
     github: "https://github.com/SL-Tiwari/Airline-Management-System",
-    // live: "https://weather-dashboard-demo.com",
+   live: "https://github.com/SL-Tiwari/Airline-Management-System",
     image: "/Images/Airline.png",
   },
   {
@@ -49,7 +49,7 @@ const projects = [
     description: "Developed an Online Food Ordering System using Spring Boot and Angular. Users can browse menus, place orders, and track status. Admins manage restaurants and orders. Follows SOLID and MVC design.",
     technologies: ["Angular 12","Java", "Spring Boot", "Typescript", "Babel", "JQuery", "Bootstrap", "MySQL"],
     github: "https://github.com/SL-Tiwari/Online-Food-Ordering-System",
-    // live: "https://weather-dashboard-demo.com",
+    live: "https://github.com/SL-Tiwari/Online-Food-Ordering-System",
     image: "/Images/OnlineFood.jpeg",
   },
 ];
